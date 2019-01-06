@@ -70,8 +70,17 @@ entries:
     output: web
     folderitems:
     - output: web
+      title: Render
+      url: /deployment_render.html
+    - output: web
       title: Zeit
       url: /deployment_zeit.html
+    - output: web
+      title: AWS BeanStalk
+      url: /deployment_aws_beanstalk.html 
+    - output: web
+      title: Google App Engine
+      url: /deployment_google_app_engine.html   
   - title: fastai v1
     output: web
     folderitems:
