@@ -10,7 +10,7 @@ sidebar: home_sidebar
 
 [Crestle.ai](https://www.crestle.ai/) is an effortless infrastructure for deep learning. Once you sign up you should be able to spin up a GPU enabled Jupyter notebook within a minute. There is no setup required on your part.
 
-If you are returning to work and have previously completed the steps below, please go to the [returning to work](http://course-v3.fast.ai/update_crestle.html) section.
+If you are returning to work and have previously completed the steps below, please go to the [returning to work](https://course.fast.ai/update_crestle.html) section.
 
 ## Using crestle.ai for fast.ai v3 course
 
@@ -35,7 +35,7 @@ You also get 1 hour of free GPU usage when you sign up.
 ## Getting started
 
 ### Step 1: Create a crestle.ai account
-Sign up for Crestle [here](https://www.crestle.ai/). Verify your email by clicking on the link Crestle emails you. Once you have verified, you can sing in to your account.
+Sign up for Crestle [here](https://www.crestle.ai/). Verify your email by clicking on the link Crestle emails you. Once you have verified, you can sign in to your account.
 
 <img alt="" src="/images/crestle/signup.png" class="screenshot">
 
@@ -72,7 +72,7 @@ Now you should close the terminal window.
 
 ### Step 5: The datasets are already there - start coding!
 
-We have already mounted the [datasets](http://course.fast.ai/datasets) required for this course. You don't have to download them. This is about 35 GB worth of data ready for you to train your models on.
+We have already mounted the [datasets](https://course.fast.ai/datasets) required for this course. You don't have to download them. This is about 35 GB worth of data ready for you to train your models on.
 
 <img alt="" src="/images/crestle/datasets.png" class="screenshot">
 

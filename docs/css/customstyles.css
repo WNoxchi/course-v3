@@ -161,6 +161,18 @@ dt[id]*/
     box-sizing: border-box;
 }
 
+.image-caption {
+    text-align:center;
+}
+
+.image {
+    margin:auto !important;
+    display:block;
+    border:black;
+    border-style:solid;
+    border-width: 1px; 
+}
+
 .post-content img {
     margin: 12px 0px 3px 0px;
     width: auto;
@@ -170,7 +182,7 @@ dt[id]*/
 }
 
 .post-content ol li, .post-content ul li {
-    margin: 10px 0px;
+    margin: 2px 0px;
 }
 
 .pageSummary {
@@ -551,10 +563,6 @@ span.projectTitle {
     margin-top: 50px;
     font-style: italic;
     font-size: 12px;
-}
-
-img.screenshotSmall {
-    max-width: 300px;
 }
 
 
@@ -1406,11 +1414,20 @@ h4 code {
     background-color: white;
 }
 
-.screenshot {
-    max-width: 90% !important;
-    border: 2px solid
+img.screenshot {
+    /* max-width: 90% !important; */
+    max-width: 640px !important;
+    max-height: 480px !important;
+    border: 2px solid;
 }
 
-.render-logo {
-    width: 109px;
+img.screenshotSmall {
+    max-width: 300px !important;
+    max-height: 480px !important;
+    border: 2px solid;
+}
+
+.provider-logo {
+    width: 180px;
+    margin: 20px 0;
 }
